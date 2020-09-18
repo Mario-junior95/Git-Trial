@@ -70,3 +70,26 @@
 - Web content development ,testing and deployment .
 - General knowledge of web development .
 - Willingness to learn and participate in online and offline collaborative efforts .
+
+
+#### <span style="color:blue"> Intern and Junior IT at Chedid Associates,Baabda </span> ***(Jan)/2018 - (Sep)/2018***
+- Performing all basics it tasks (Formatting and Reinstalling Windows OS & Applications) .
+- Installing softwares ,connecting users network . 
+- Joining users to the domain controller .
+- Troubleshooting and repairing computers .
+
+#### <span style="color:blue"> Intern and Junior IT at Meatel - Dima HAzmieh </span> (Sep)/2016 - (Feb)/2017
+- Performing all basics it tasks (Formatting and Reinstalling Windows OS & Applications) .
+- Installing softwares ,connecting users network .
+- Joining users to the domain controller .
+- Troubleshooting and repairing computers .
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+### <span style="color:red"> Education : </span>
+
+- ***Computer science - CNAM University - Beirut*** (_2016 - Present_)
+- ***General Physics - Lebanease University - Fanar*** (_2014 - 2015_)
+- ***General science SG - Al Akhtal Al Saghir - Bauchrieh*** (_2013 - 2014_)
+ 
+-------------------------------------------------------------------------------------------------------------------------------
