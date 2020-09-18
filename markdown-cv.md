@@ -1,4 +1,7 @@
+
 # Mario-Junior El Kareh
+
+![](index.jpg)
 
 ### <span style="color:red">Summary :</span>  
 - ***I am a team player ,enjoying meeting new people and forming new, close working relationships with those working with me.***  
